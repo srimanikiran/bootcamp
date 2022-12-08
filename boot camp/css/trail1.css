@@ -1,0 +1,156 @@
+.col1{
+	height: 600px;
+     width: 1420px;
+	background: white;
+	margin-left: -10px;
+}
+.image1{
+       height: 300px;
+       width: 400px;
+       margin-left: 500px;
+}
+.h{
+		color: deepskyblue;
+}
+.d1{
+     margin-left: 530px;
+}
+.d2{
+	margin-left: 545px;
+}
+.btn1{
+	background-color: orange;
+		margin-left: 660px;
+		border: none;
+		border-radius: 5px;
+		padding: 4px 10px 4px 10px;
+}
+.col2{
+	height: 600px;
+	width: 1420px;
+	background: #5495e7;
+	margin-left: -10px;
+	position: relative;
+	
+
+}
+.col3{
+	height: 200px;
+	width: 1385px;
+	background-color: #e6eefa;
+	margin-left: 10px;
+
+}
+.box1{
+		height: 180px;
+		width: 200px;
+		margin-left: 110px;
+		background-color: #e6eefa;
+		border-radius: 10px;
+		position: absolute;
+		margin-top: -670px;
+
+		
+	}
+	.box2{
+		height: 180px;
+		width: 200px;	
+		margin-left: 430px;
+		position: absolute;
+		background-color: #e6eefa;
+		border-radius: 10px;
+	    margin-top: -670px;
+		
+	}
+	.box3{
+		height: 180px;
+		width: 200px;
+		margin-left: 750px;
+		background-color: #e6eefa;
+		border-radius:10px;
+		position: absolute;
+		margin-top: -670px;
+	
+	}
+	.box4{
+		height: 180px;
+		width: 200px;
+	    border-radius: 10px;
+		margin-left: 1050px;
+		background-color: #e6eefa;
+	    position: absolute;
+	    margin-top: -670px;
+	}
+	.icon1{
+		font-size: 50px;
+		margin-left: 65px;
+		margin-top: 20px;
+		color: #5495e7;
+	}
+	.d3{
+		font-size: 11px;
+		margin-left: 20px;
+	}
+	.d4{
+		font-size: 11px;
+		margin-left: 50px;
+	}
+	.col4{
+		margin-top: 140px;
+	}
+	.col5{
+		margin-top: 140px;
+	}
+    .k1{
+		margin-left: 50px;
+		color: white;
+	}
+	.icon2{
+		margin-left: 50px;
+       font-size: 25px;
+       color: white;
+	}
+	.icon3{
+		margin-left: 25px;
+       font-size: 25px;
+       color: white;
+   }
+   .inp1{
+		border:none;
+		background-color: #5495e7;
+		color: white;
+		font-size: 15px;
+		border-bottom: 2px solid whitesmoke;
+		padding: 10px 10p 10px 10px;
+		width: 450px;
+		margin-left: 80px;
+	}
+	.l1{
+		color: whitesmoke;
+		margin-left: 80px;
+	}
+	.btn2{
+		border: none;
+		padding: 10px 215px 10px 215px;
+		margin-left: 80px;
+		color: white;
+	}
+	.col6{
+	background-color: #434242;
+	height: 150px;
+	width: 1420px;
+	margin-left: -10px;
+  
+   
+	
+}
+.d5{
+	
+	margin-left: 540px;
+	color: white;
+}
+.d6{
+	
+	margin-left: 640px;
+	color: white;
+}
